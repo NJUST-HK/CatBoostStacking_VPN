@@ -149,4 +149,3 @@ print("Precision: ", "{:.2%}".format(precision))
 print("Recall: ", "{:.2%}".format(recall))
 print("F1-Score: ", "{:.2%}".format(f1))
 
-scanf("%d%d%d",&a, &b, &c)
